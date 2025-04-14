@@ -1,4 +1,4 @@
-const supportedCurrencies = {
+const countryList = {
   AED: "AE",
   AUD: "AU",
   BGN: "BG",
